@@ -13,8 +13,12 @@
         android:label="@string/app_name" >
         <activity
             android:name="com.sqisland.android.hello.MainActivity"
+<<<<<<< HEAD
             android:label="@string/app_name"
             android:theme="@style/AppTheme" >
+=======
+            android:label="@string/app_name" >
+>>>>>>> 1285aa3b1e48477ed9a10ba4a61103822cff8243
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

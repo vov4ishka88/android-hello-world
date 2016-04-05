@@ -1,2 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
+<<<<<<< HEAD
 <merger version="3"><dataSet config="main"><source path="D:\android\android-hello-world-master\app\src\main\jniLibs"/></dataSet><dataSet config="debug"><source path="D:\android\android-hello-world-master\app\src\debug\jniLibs"/></dataSet></merger>
+=======
+<merger version="3"><dataSet config="main"><source path="E:\android\android-hello-world\app\src\main\jniLibs"/></dataSet><dataSet config="debug"><source path="E:\android\android-hello-world\app\src\debug\jniLibs"/></dataSet></merger>
+>>>>>>> 1285aa3b1e48477ed9a10ba4a61103822cff8243

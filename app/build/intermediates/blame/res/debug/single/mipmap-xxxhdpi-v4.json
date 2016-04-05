@@ -1,6 +1,11 @@
 [
     {
+<<<<<<< HEAD
         "merged": "D:\\android\\android-hello-world-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_launcher.png",
         "source": "D:\\android\\android-hello-world-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+=======
+        "merged": "E:\\android\\android-hello-world\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_launcher.png",
+        "source": "E:\\android\\android-hello-world\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+>>>>>>> 1285aa3b1e48477ed9a10ba4a61103822cff8243
     }
 ]

@@ -1,12 +1,17 @@
 [
     {
+<<<<<<< HEAD
         "outputFile": "D:\\android\\android-hello-world-master\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+=======
+        "outputFile": "E:\\android\\android-hello-world\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+>>>>>>> 1285aa3b1e48477ed9a10ba4a61103822cff8243
         "map": [
             {
                 "to": {
                     "startLine": 2,
                     "startColumn": 4,
                     "startOffset": 55,
+<<<<<<< HEAD
                     "endColumn": 57,
                     "endOffset": 108
                 },
@@ -69,11 +74,25 @@
                         "endLine": 3,
                         "endColumn": 12,
                         "endOffset": 121
+=======
+                    "endColumn": 48,
+                    "endOffset": 99
+                },
+                "from": {
+                    "file": "E:\\android\\android-hello-world\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 2,
+                        "startOffset": 15,
+                        "endColumn": 46,
+                        "endOffset": 59
+>>>>>>> 1285aa3b1e48477ed9a10ba4a61103822cff8243
                     }
                 }
             },
             {
                 "to": {
+<<<<<<< HEAD
                     "startLine": 28,
                     "startColumn": 4,
                     "startOffset": 2189,
@@ -90,6 +109,22 @@
                         "endLine": 6,
                         "endColumn": 12,
                         "endOffset": 241
+=======
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 104,
+                    "endColumn": 52,
+                    "endOffset": 152
+                },
+                "from": {
+                    "file": "E:\\android\\android-hello-world\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 2,
+                        "startOffset": 63,
+                        "endColumn": 50,
+                        "endOffset": 111
+>>>>>>> 1285aa3b1e48477ed9a10ba4a61103822cff8243
                     }
                 }
             }

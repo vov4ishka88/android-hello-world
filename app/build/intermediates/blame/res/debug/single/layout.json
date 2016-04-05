@@ -1,6 +1,11 @@
 [
     {
+<<<<<<< HEAD
         "merged": "D:\\android\\android-hello-world-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
         "source": "D:\\android\\android-hello-world-master\\app\\src\\main\\res\\layout\\activity_main.xml"
+=======
+        "merged": "E:\\android\\android-hello-world\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\android\\android-hello-world\\app\\src\\main\\res\\layout\\activity_main.xml"
+>>>>>>> 1285aa3b1e48477ed9a10ba4a61103822cff8243
     }
 ]
